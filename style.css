@@ -1,0 +1,53 @@
+
+body{
+
+    background-color: rgb(44, 44, 36);
+}
+#wrapper{
+    background-color: #e8e0fd;
+    color: #111;
+    font-family: Roboto, sans-serif;
+    width: 70%;
+    margin: 10%;
+    border-radius: 2%;
+}
+#img1{
+    width:6rem;
+}
+#btn{
+    width:6rem;
+    height: 6rem;
+    margin-left:2";
+}
+#container1{
+      margin-left: 1%;
+      display: flex;
+}
+#type-bar{
+   width:50rem;
+     height: 3rem;
+     border-radius: 102rem;
+     padding: 1%;
+     font-size: large;
+     margin-top: 2%;
+}
+#weatherimg{
+    border-radius: 60%;
+   margin-left:40% ;
+    width: 10rem;
+}
+#temp{
+    font-size: xx-large;
+    text-align: center;
+}
+#city{
+    font-size: x-large;
+    text-align: center;
+    color: rgb(6, 6, 167);
+}
+#other{
+    display: flex;
+    gap: 40rem;
+    font-size: x-large;
+    color: rgb(7, 62, 164);
+}
